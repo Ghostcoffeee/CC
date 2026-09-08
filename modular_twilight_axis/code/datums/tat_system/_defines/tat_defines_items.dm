@@ -502,8 +502,8 @@ GLOBAL_LIST_INIT(tat_donation_access_all_ckeys, TAT_DONATION_ACCESS_ALL_CKEYS)
 	/obj/item/clothing/wrists/roguetown/bracers/iron/chain = TAT_ITEM_ENTRY("Iron - Chain Sleeves ", 1.5, "clothing", "armor_family", TAT_ARMOR_MAIL, "wrists"), \
 	/obj/item/clothing/wrists/roguetown/bracers/bronze/chain = TAT_ITEM_ENTRY("Bronze - Chain Sleeves ", 1.5, "clothing", "armor_family", TAT_ARMOR_MAIL, "wrists"), \
 	/obj/item/clothing/wrists/roguetown/bracers/chain = TAT_ITEM_ENTRY("Steel - Chain Sleeves ", 2, "clothing", "armor_family", TAT_ARMOR_MAIL, "wrists"), \
-	/obj/item/contraption/linker = TAT_ITEM_ENTRY("Tool - Wrench", 1, "misc", "weapon_supply", TAT_SUPPLY_BRONZE, "adventur' supply"), \
-	/obj/item/contraption/wood_metalizer = TAT_ITEM_ENTRY("Tool - Wood Metallizer", 3, "misc", "weapon_supply", TAT_SUPPLY_BRONZE, "adventur' supply"), \
+	/obj/item/rogueweapon/contraption/linker = TAT_ITEM_ENTRY("Tool - Wrench", 1, "misc", "weapon_supply", TAT_SUPPLY_BRONZE, "adventur' supply"), \
+	/obj/item/rogueweapon/contraption/wood_metalizer = TAT_ITEM_ENTRY("Tool - Wood Metallizer", 3, "misc", "weapon_supply", TAT_SUPPLY_BRONZE, "adventur' supply"), \
 	/obj/item/cooking/pan = TAT_ITEM_ENTRY("Cooking - Frying Pan", 0.5, "weapon", "weapon_supply", TAT_SUPPLY_IRON, "misc"), \
 	/obj/item/cooking/pan/aalloy = TAT_ITEM_ENTRY("Cooking - Frying Pan - Decrepit", 0, "weapon", "weapon_supply", TAT_SUPPLY_IRON, "misc"), \
 	/obj/item/cooking/pan/bronze = TAT_ITEM_ENTRY("Cooking - Frying Pan - Bronze", 0, "weapon", "weapon_supply", TAT_SUPPLY_BRONZE, "misc"), \
